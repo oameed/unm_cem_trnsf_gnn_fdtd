@@ -1,7 +1,7 @@
 # Physics-Informed Surrogates for EM Dynamics using Transformers and GNNs
 
 This is the official repository for the following work published in [_IET Microwaves, Antennas & Propagation_](https://ietresearch.onlinelibrary.wiley.com/journal/17518733):
-* [2024 MAP]() : Noakoasteen. Christodoulou. Peng. Goudos. _**"Physics-Informed Surrogates for Electromagnetic Dynamics using Transformers and GNNs"**_  
+* [2024 MAP](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/mia2.12463) : Noakoasteen. Christodoulou. Peng. Goudos. _**"Physics-Informed Surrogates for Electromagnetic Dynamics using Transformers and GNNs"**_  
 
 This work, in earlier stages of its development, has also been presented at the following conferences:
 * [2022 APS/URSI](https://2022apsursi.org/view_paper.php?PaperNum=1388) Noakoasteen. _Time-Domain Electromagnetic Analysis using Graph Neural Networks_  
